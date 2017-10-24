@@ -1,0 +1,77 @@
+body {
+	background-color: #a4cdc8
+}
+.container {
+	: 2px solid green;
+	width: 100%;
+	max-width: 1500px;
+	margin: 0 auto;
+	background-color: #a4cdc8;
+}
+
+.medic {
+	: 2px solid 
+		margin: 0 auto;
+		max-width: 600px;
+		width: 100%;
+			float: left;
+			margin-left: 250px;
+					margin-top: 200px;
+
+
+
+}
+
+.iphone {
+	float: left;
+	margin-left: 60px;
+		margin-top: 90px;
+
+
+}
+
+.title {
+	: 1px solid blue;
+	float: left;
+	text-align: left;
+	position: absolute;
+	margin-left: 300px;
+	margin-top: 160px;
+}
+p {
+	position: absolute;
+	margin-top: -50px;
+	color: white;
+	font-family: Avenir;
+	text-align: left;
+	font-size: 20px;
+	margin-left: 75px;
+	line-height: 25px;
+}
+.app {
+		position: absolute;
+		margin-left: 250px;
+	margin-top: 730px;
+		float: left;
+
+
+}
+
+footer {
+	position: fixed;
+	margin: 30px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    font-family: Avenir;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-left: -10px;
+    font-size: 10px;
+}
+
+footer p {
+	text-align: center;
+}
